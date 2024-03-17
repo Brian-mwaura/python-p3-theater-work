@@ -1,4 +1,8 @@
+__pycache__/
 .DS_Store
-
-*.db
-*.sqlite
+.env
+.venv/
+*.pyc
+*.pyo
+*.pyd
+.idea/
